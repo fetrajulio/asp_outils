@@ -1,0 +1,3 @@
+ <add name="default" connectionString="Server=localhost; Database=aspa; User id=root; Password=;" />
+    <add name="Models_" connectionString="Data Source=(localdb)\v11.0; Initial Catalog=Models_-20211204165039; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|Models_-20211204165039.mdf"
+      providerName="System.Data.SqlClient" />
